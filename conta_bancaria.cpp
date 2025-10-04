@@ -2,6 +2,12 @@
 #include <string>
 using namespace std;
 
+/*
+Feito por: Pedro Melo Arruda  20240006507
+e Arthur Rocha De Barros 20240016675
+
+*/
+
 // Classe Cliente
 class Cliente {
 private: // atributos privados
